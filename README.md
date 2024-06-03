@@ -1,0 +1,1 @@
+# josm-bot-images
